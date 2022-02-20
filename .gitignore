@@ -1,0 +1,5 @@
+#ignore Mac Nova config settings
+.nova
+
+#ignore jetbrains .idea config files
+.idea
