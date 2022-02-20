@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="UTF-8">
+    <title>Divs, Spans & IDs</title>
+</head>
+
+<body>
+<<<<<<< HEAD:Learn HTML Elements/divs_spans_ids.html
+    <ul>
+        <li><span style="color: yellow;">Banana</span></li>
+        <li><span style="color: rgb(58, 255, 84);">Apple</span></li>
+        <li><span style="color: rgb(248, 150, 23);">Orange</span></li>
+        <li><span style="color: rgb(255, 0, 0);">Strawberry</span></li>
+    </ul>
+
+    <p>This is just a simple sentence inside a paragraph tag. Going to a add a <span style="font-weight:bold">bold right here</span> and add some <span style="font-style: italic;">italic here</span> .</p>
+    <br><br>
+    <p>This is some text with alternative tags. This will be <em>emphasised with italics</em> and this will become <strong>strong/ bold</strong>.</p>
+=======
+<h1>Unordered Lists</h1>
+<ul>
+    <li><span style="color: yellow;">Banana</span></li>
+    <li><span style="color: rgb(58, 255, 84);">Apple</span></li>
+    <li><span style="color: rgb(248, 150, 23);">Orange</span></li>
+    <li><span style="color: rgb(255, 0, 0);">Strawberry</span></li>
+</ul>
+<h1>Ordered Lists</h1>
+<ol>
+    <li><span style="color: yellow;">Banana</span></li>
+    <li><span style="color: rgb(58, 255, 84);">Apple</span></li>
+    <li><span style="color: rgb(248, 150, 23);">Orange</span></li>
+    <li><span style="color: rgb(255, 0, 0);">Strawberry</span></li>
+</ol>
+
+<!--begin content Font Style-->
+<div>
+    <h1>Font Styles</h1>
+    <p>This is just a simple sentence inside a paragraph tag. Going to add a <span
+            style="font-weight:bold">bold right here</span> and add some <span
+            style="font-style: italic;">italic here</span> .</p>
+
+    <p>This is some text with alternative tags. This will be <em>emphasized with italics</em> and this will become <strong>strong/
+        bold</strong>.</p>
+</div>
+<!--end content Font Style-->
+
+<!--begin content Media Types-->
+<div>
+    <h1>Types of Media</h1>
+    <img src="https://content.codecademy.com/courses/web-101/web101-image_brownbear.jpg" alt="A Brown Bear"/>
+    <br>
+    <video src="https://content.codecademy.com/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" width="320"
+           height="240" controls>Video not supported.
+    </video>
+</div>
+<!--begin content Media Types-->
+
+>>>>>>> bfe4b168f9d908e6f1b5b13eb54fa7b8574afa2f:Intro/Fundamentals of HTML/divs_spans_ids.html
+</body>
+</html>
